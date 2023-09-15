@@ -1,0 +1,11 @@
+--2023-09-15 15:20:41--  https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F33f8dd8b313a795fde97f8f09407a3f9%2F16720153543378C1BB205-42C3-4FC6-9CB5-117F9D16AC34.jpeg
+Resolving imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)... 199.232.38.137
+Connecting to imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)|199.232.38.137|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4331107 (4.1M) [image/jpeg]
+Saving to: ‘lasagna-image.jpeg’
+
+lasagna-image.jpeg        0%[                             ]       0  --.-KB/s               lasagna-image.jpeg       19%[====>                        ] 844.81K  4.12MB/s               lasagna-image.jpeg       50%[=============>               ]   2.10M  5.20MB/s               lasagna-image.jpeg       96%[==========================>  ]   3.97M  6.55MB/s               lasagna-image.jpeg      100%[============================>]   4.13M  6.51MB/s    in 0.6s    
+
+2023-09-15 15:20:42 (6.51 MB/s) - ‘lasagna-image.jpeg’ saved [4331107/4331107]
+
